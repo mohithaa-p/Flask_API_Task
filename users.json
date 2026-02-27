@@ -1,0 +1,222 @@
+[
+  {
+    "first_name": "Aarav",
+    "last_name": "Sharma",
+    "company_name": "Tech Mahindra",
+    "age": 28,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip": "560001",
+    "email": "aarav.sharma@techmahindra.com",
+    "web": "https://www.techmahindra.com"
+  },
+  {
+    "first_name": "Diya",
+    "last_name": "Reddy",
+    "company_name": "Infosys",
+    "age": 26,
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zip": "500001",
+    "email": "diya.reddy@infosys.com",
+    "web": "https://www.infosys.com"
+  },
+  {
+    "first_name": "Vivaan",
+    "last_name": "Patel",
+    "company_name": "TCS",
+    "age": 31,
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "zip": "380001",
+    "email": "vivaan.patel@tcs.com",
+    "web": "https://www.tcs.com"
+  },
+  {
+    "first_name": "Ananya",
+    "last_name": "Iyer",
+    "company_name": "Wipro",
+    "age": 29,
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zip": "600001",
+    "email": "ananya.iyer@wipro.com",
+    "web": "https://www.wipro.com"
+  },
+  {
+    "first_name": "Arjun",
+    "last_name": "Nair",
+    "company_name": "HCL Technologies",
+    "age": 33,
+    "city": "Kochi",
+    "state": "Kerala",
+    "zip": "682001",
+    "email": "arjun.nair@hcl.com",
+    "web": "https://www.hcltech.com"
+  },
+  {
+    "first_name": "Meera",
+    "last_name": "Kulkarni",
+    "company_name": "Persistent Systems",
+    "age": 27,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "zip": "411001",
+    "email": "meera.kulkarni@persistent.com",
+    "web": "https://www.persistent.com"
+  },
+  {
+    "first_name": "Kabir",
+    "last_name": "Singh",
+    "company_name": "Flipkart",
+    "age": 30,
+    "city": "Delhi",
+    "state": "Delhi",
+    "zip": "110001",
+    "email": "kabir.singh@flipkart.com",
+    "web": "https://www.flipkart.com"
+  },
+  {
+    "first_name": "Ishita",
+    "last_name": "Verma",
+    "company_name": "Zomato",
+    "age": 25,
+    "city": "Gurugram",
+    "state": "Haryana",
+    "zip": "122001",
+    "email": "ishita.verma@zomato.com",
+    "web": "https://www.zomato.com"
+  },
+  {
+    "first_name": "Rohan",
+    "last_name": "Deshmukh",
+    "company_name": "Capgemini India",
+    "age": 34,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zip": "400001",
+    "email": "rohan.deshmukh@capgemini.com",
+    "web": "https://www.capgemini.com"
+  },
+  {
+    "first_name": "Sneha",
+    "last_name": "Bose",
+    "company_name": "Cognizant",
+    "age": 28,
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "zip": "700001",
+    "email": "sneha.bose@cognizant.com",
+    "web": "https://www.cognizant.com"
+  },
+  {
+    "first_name": "Aditya",
+    "last_name": "Choudhary",
+    "company_name": "Paytm",
+    "age": 32,
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "zip": "201301",
+    "email": "aditya.choudhary@paytm.com",
+    "web": "https://www.paytm.com"
+  },
+  {
+    "first_name": "Priya",
+    "last_name": "Menon",
+    "company_name": "Byju's",
+    "age": 27,
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zip": "560002",
+    "email": "priya.menon@byjus.com",
+    "web": "https://www.byjus.com"
+  },
+  {
+    "first_name": "Karthik",
+    "last_name": "Rao",
+    "company_name": "Mindtree",
+    "age": 29,
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "zip": "570001",
+    "email": "karthik.rao@mindtree.com",
+    "web": "https://www.mindtree.com"
+  },
+  {
+    "first_name": "Nisha",
+    "last_name": "Gupta",
+    "company_name": "Swiggy",
+    "age": 26,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "zip": "302001",
+    "email": "nisha.gupta@swiggy.in",
+    "web": "https://www.swiggy.com"
+  },
+  {
+    "first_name": "Rahul",
+    "last_name": "Yadav",
+    "company_name": "Ola Cabs",
+    "age": 31,
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "zip": "226001",
+    "email": "rahul.yadav@olacabs.com",
+    "web": "https://www.olacabs.com"
+  },
+  {
+    "first_name": "Pooja",
+    "last_name": "Joshi",
+    "company_name": "Zoho",
+    "age": 28,
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "zip": "641001",
+    "email": "pooja.joshi@zoho.com",
+    "web": "https://www.zoho.com"
+  },
+  {
+    "first_name": "Varun",
+    "last_name": "Malhotra",
+    "company_name": "L&T Infotech",
+    "age": 35,
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "zip": "160001",
+    "email": "varun.malhotra@lntinfotech.com",
+    "web": "https://www.lntinfotech.com"
+  },
+  {
+    "first_name": "Aisha",
+    "last_name": "Khan",
+    "company_name": "Amazon India",
+    "age": 27,
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zip": "400002",
+    "email": "aisha.khan@amazon.in",
+    "web": "https://www.amazon.in"
+  },
+  {
+    "first_name": "Siddharth",
+    "last_name": "Trivedi",
+    "company_name": "Accenture India",
+    "age": 33,
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "zip": "452001",
+    "email": "siddharth.trivedi@accenture.com",
+    "web": "https://www.accenture.com"
+  },
+  {
+    "first_name": "Neha",
+    "last_name": "Agarwal",
+    "company_name": "Deloitte India",
+    "age": 29,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zip": "462001",
+    "email": "neha.agarwal@deloitte.com",
+    "web": "https://www.deloitte.com"
+  }
+]
